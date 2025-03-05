@@ -1,5 +1,5 @@
 
-![image](https://github.com/user-attachments/assets/cc32c74d-0306-4033-b422-d68a1f0319bc)
+![image](https://github.com/user-attachments/assets/b71fee2d-95b8-42a3-91c6-c4111e734e48)
 ###
 <div align="center">
   <a href = "https://www.linkedin.com/in/guilherme-rfmartins/"
@@ -43,6 +43,6 @@
 </div>
 
 ###
-![image](https://github.com/user-attachments/assets/1f4f297f-9e8b-46b0-aef4-183cabee0657)
+![image](https://github.com/user-attachments/assets/9919b5fc-2071-43ce-b086-296ce2075ac9)
 
 ###
