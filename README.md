@@ -1,15 +1,11 @@
-![image](https://github.com/user-attachments/assets/35b1fc8a-b921-4776-b784-eb0534fa42cd)# README
+# README
 
 ###
-![Minha Foto](img.jpg)
 <div align="center">
   <a href = "https://www.linkedin.com/in/guilherme-rfmartins/"
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" 
-    </a>
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"</a>
+  <a href = "https://wa.me/5581992059352"
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  /></a>
 </div>
 
 ###
@@ -19,6 +15,8 @@
 ###
 
 <h4 align="left">Meu nome é Guilherme Martins, sou estudante de Engenharia da Computação e apaixonado por tecnologia, com foco em cibersegurança, redes de computadores e análise de sistemas. Aqui você encontrará alguns dos meus projetos, estudos e contribuições que refletem minha jornada de aprendizado e desenvolvimento técnico.</h4>
+<hr>
+<h4>Possuo experiência em suporte técnico, manutenção de computadores e configuração de hardware e software, além de certificações em áreas como Cybersecurity Awareness, Linux Fundamentos e Fundamentos de Redes de Computadores. Também tenho conhecimentos básicos em linguagens como Python e JavaScript, e familiaridade com ferramentas como Git/GitHub e VirtualBox.</h4>
 
 ###
 
