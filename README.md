@@ -1,5 +1,5 @@
-# README
 
+![image](https://github.com/user-attachments/assets/cc32c74d-0306-4033-b422-d68a1f0319bc)
 ###
 <div align="center">
   <a href = "https://www.linkedin.com/in/guilherme-rfmartins/"
@@ -43,7 +43,6 @@
 </div>
 
 ###
-
-<h3 align="left">🔥   My Stats :</h3>
+![image](https://github.com/user-attachments/assets/1f4f297f-9e8b-46b0-aef4-183cabee0657)
 
 ###
